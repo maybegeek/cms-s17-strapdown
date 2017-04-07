@@ -70,6 +70,14 @@ li.L5,
 li.L7,
 li.L9 { background: #eee }
 
+pre {
+    white-space: pre-wrap;
+    white-space: moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
 /* eigene Anpassungen */
 body {
   margin: 0;
